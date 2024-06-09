@@ -1,6 +1,9 @@
 
 # Stock Price Prediction & Forecasting
 
+![stock](https://github.com/Fahma623/Stock-Price-Prediction-Forecasting/assets/62518284/1e2bfc8e-3eed-4271-bac5-107955de0fa0)
+
+
 This project utilizes Long Short-Term Memory (LSTM) networks to predict stock prices based on historical data. LSTM networks are a type of recurrent neural network (RNN) capable of learning long-term dependencies, making them suitable for sequential data like time series.
 
 
